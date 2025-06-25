@@ -1,39 +1,53 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio – Safanja Callista Yolananda
 
-Selamat datang di portofolio data analyst saya! Di sini saya mengumpulkan proyek-proyek data yang telah saya kerjakan, mulai dari SQL case study hingga dashboard visualisasi dengan Excel.
-
----
-
-## 🧠 Case Study 1: Supercloud Customer Query
-
-**Deskripsi:**  
-Query ini bertujuan untuk mengidentifikasi customer yang telah membeli minimal satu produk dari *setiap kategori produk* yang tersedia.  
-Sumber: DataLemur (SQL Interview - Microsoft, Medium Level)
-
-📄 [supercloud_customer.sql](./supercloud_customer.sql.txt)
-
-**Tools:** PostgreSQL
+Selamat datang di portfolio saya sebagai calon Data Analyst! Di repositori ini, saya menyajikan beberapa project menggunakan SQL dan Microsoft Excel sebagai bukti kemampuan saya dalam menganalisis dan menyajikan data secara efektif.
 
 ---
 
-## 📈 Project 2: Dashboard Reporting Excel
+## 📁 Daftar Proyek
 
-**Deskripsi:**  
-Dashboard ini saya buat menggunakan Microsoft Excel untuk menampilkan ringkasan data dalam bentuk visual.  
-Berisi filter dinamis, grafik tren, dan analisis performa.
+### 1️⃣ Supercloud Customer Query (SQL)
 
-📄 [Dashboard Reporting Safanja.xlsx](./Dashboard%20Reporting%20Safanja.xlsx)
+**📌 Case Study:** Identify Microsoft Azure Supercloud customers  
+SQL case ini mengeksplorasi cara mengidentifikasi customer yang membeli minimal satu produk dari **setiap kategori produk** yang tersedia.
 
-**Tools:** Microsoft Excel
+**🧠 Logic Breakdown:**
+- Gunakan `JOIN` antara `customer_contracts` dan `products`
+- Gunakan `COUNT(DISTINCT ...)` untuk menghitung jumlah kategori yang dibeli tiap customer
+- Gunakan subquery untuk membandingkan dengan **total kategori produk yang tersedia**
+
+📄 [supercloud_customer.sql](./supercloud_customer.sql)
+
+**Tools Used:**
+- PostgreSQL
+- DataLemur SQL Case (Microsoft – Medium)
+- GitHub for version control
 
 ---
 
-## ⚒️ Tools yang saya gunakan
+### 2️⃣ Excel Dashboard: Laporan Penjualan
 
-- SQL (PostgreSQL)
+**📌 Deskripsi:**  
+Dashboard interaktif yang menyajikan laporan penjualan berdasarkan bulan, produk, dan wilayah. Dilengkapi dengan filter, visualisasi dinamis, dan analisis performa.
+
+📊 [Dashboard Reporting Safanja.xlsx](./Dashboard%20Reporting%20Safanja.xlsx)
+
+**Fitur Utama:**
+- Pivot Table & Pivot Chart
+- Data validation & dropdown filter
+- Conditional formatting
+
+**Tools Used:**
 - Microsoft Excel
-- GitHub untuk dokumentasi
+- Grafik dinamis dan pengelompokan data
+- Pengetahuan tentang business insight dari data penjualan
 
 ---
 
-✨ **Created by: Safanja Callista Yolananda**
+## ✨ Tentang Saya
+
+Halo! Saya **Safanja Callista Yolananda**, lulusan Agroekoteknologi dengan minat tinggi di bidang **data analysis**. Saya senang mengolah data, baik menggunakan SQL maupun Excel, dan sedang membangun skill di bidang ini melalui berbagai proyek dan studi kasus.
+
+---
+
+Terima kasih telah mengunjungi portfolio saya! 🙌
