@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio – Safanja Callista Yolananda
 
-Selamat datang di portfolio saya sebagai calon Data Analyst! Di repositori ini, saya menyajikan beberapa project menggunakan SQL dan Microsoft Excel sebagai bukti kemampuan saya dalam menganalisis dan menyajikan data secara efektif.
+Selamat datang di portfolio saya sebagai calon Data Analyst! Di repositori ini, saya menyajikan beberapa project menggunakan SQL, Microsoft Excel, dan lookerstudio sebagai bukti kemampuan saya dalam menganalisis dan menyajikan data secara efektif.
 
 ---
 
