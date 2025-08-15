@@ -44,7 +44,7 @@ Dashboard interaktif yang menyajikan laporan penjualan berdasarkan bulan, produk
 
 ---
 
-## 📊 Looker Studio Dashboard: Global Superstore 2016
+## 3️⃣ Looker Studio Dashboard: Global Superstore 2016
 
 Dashboard interaktif yang dibuat menggunakan **Google Looker Studio** untuk menganalisis penjualan dan profit berdasarkan region, kategori, serta tren per kuartal.  
 Data diambil dari dataset **Global Superstore 2016**.
