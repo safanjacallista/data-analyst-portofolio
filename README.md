@@ -44,6 +44,29 @@ Dashboard interaktif yang menyajikan laporan penjualan berdasarkan bulan, produk
 
 ---
 
+## 📊 Looker Studio Dashboard: Global Superstore 2016
+
+Dashboard interaktif yang dibuat menggunakan **Google Looker Studio** untuk menganalisis penjualan dan profit berdasarkan region, kategori, serta tren per kuartal.  
+Data diambil dari dataset **Global Superstore 2016**.
+
+📄 [Lihat Dashboard (PDF)](./Global_Superstore_2016_Dashboard.pdf)
+
+**Tools used:**
+- Google Looker Studio
+- Dataset Global Superstore 2016
+
+**Fitur Utama:**
+- Profit per region dan sub-kategori
+- Trend penjualan per kuartal
+- Peta sales per state
+- KPI: Profit, Sales, Shipping Cost, Quantity, Profit Margin
+
+**Insight:**
+- Western Europe memiliki profit tertinggi di antara region lain.
+- Furniture memiliki porsi penjualan terbesar.
+- Tren penjualan meningkat di kuartal terakhir 2015.
+
+
 ## ✨ Tentang Saya
 
 Halo! Saya **Safanja Callista Yolananda**, lulusan Agroekoteknologi dengan minat tinggi di bidang **data analysis**. Saya senang mengolah data, baik menggunakan SQL maupun Excel, dan sedang membangun skill di bidang ini melalui berbagai proyek dan studi kasus.
